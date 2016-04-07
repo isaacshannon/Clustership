@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER" exported="true"/>
+	<classpathentry kind="src" path="/my-gdx-game-core" exported="true"/>
+	<classpathentry sourcepath="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.1.0/cd776c9605e683a4f075610bfe5956cfc6b10d62/gdx-backend-gwt-1.1.0-sources.jar" kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.1.0/3d16061a9738adf69f254fb7ef2ce14eab048aa2/gdx-backend-gwt-1.1.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.1.0/cd776c9605e683a4f075610bfe5956cfc6b10d62/gdx-backend-gwt-1.1.0-sources.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.1.0/abdb14d6d21978e13055b14f834108e4c8dd8cba/gdx-1.1.0-sources.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.1.0/4a031279bbde63fafdcc6b487c4c85aa4dd1207b/gdx-box2d-1.1.0-sources.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-gwt/1.1.0/f311278ba2b05fa345d9e250af86c53de218e6db/gdx-box2d-gwt-1.1.0-sources.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-servlet/2.6.0/7a59cc91e16f255d22b692dcc5839d3eb1d606c6/gwt-servlet-2.6.0-sources.jar" kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-servlet/2.6.0/d1e40c23bf78192482ee76c93619a10b4ea649f7/gwt-servlet-2.6.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.1.0/abdb14d6d21978e13055b14f834108e4c8dd8cba/gdx-1.1.0-sources.jar" kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.1.0/686f5a609c717eb0769d3b954c501a49bf4fe351/gdx-1.1.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.1.0/4a031279bbde63fafdcc6b487c4c85aa4dd1207b/gdx-box2d-1.1.0-sources.jar" kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.1.0/919bff3c5e92062ee3413f86076c089bd810b5b3/gdx-box2d-1.1.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-codeserver/2.6.0/9be1bd733a55fd4c2cc42b7d377dc9a4296e2d64/gwt-codeserver-2.6.0-sources.jar" kind="lib" path="C:/Users/isaac/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-codeserver/2.6.0/c88f4d9a43a8161317a77c721a75aa3a78952e37/gwt-codeserver-2.6.0.jar" exported="true"/>
+</classpath>
